@@ -10,8 +10,8 @@ RESULT: I can't checkout another branch until I commit this one.
 ok, I'm committing
 RESULT: I can't directly commit. I have to add this file because it's modified now.
 
-
-
+back from branch_from_past, let's see if there's anything different this time
+RESULT: turns out I need to re git add this file.. huhhh
 
 
 
