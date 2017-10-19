@@ -3,3 +3,19 @@ this is a test file, not even a code
 this is the 3rd line of the test file
 
 I'm only adding this for the branch my_branch
+
+now I'm continuing to work on this branch, but I'm not committing yet
+RESULT: I can't checkout another branch until I commit this one.
+
+ok, I'm committing
+RESULT: I can't directly commit. I have to add this file because it's modified now.
+
+
+
+
+
+
+
+
+
+
