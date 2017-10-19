@@ -3,3 +3,9 @@ this is a test file, not even a code
 this is the 3rd line of the test file
 
 I'm only adding this line to the branch branch_from_past
+RESULT: for some reason, this time I don't have to git add this file. Did I do this before? Maybe I should open another file
+
+Just added another file. Turns out I need to git add this one now. So, when I 1) create a new file, and 2) change this original file,
+I need to re- git add this modified file to the repository. Maybe that's what went wrong last time
+
+
