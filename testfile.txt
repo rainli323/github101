@@ -16,7 +16,10 @@ RESULT: turns out I need to re git add this file.. huhhh
 do I need to re add if don't leave this branch? I hope not. (past experience said so)
 RESULT: YES I DO. Huhhhh... Always add it to staging? interesting
 
-
-
+I just copied a file timer.dat from the outside to this dirrectory. I want to see if git can pickup
+the changes when I copy another version of the same file in to replace this one. 
+RESULT: Here's the result after the git add timer.dat. and git commit. Even though this current file
+testfile.txt was changed, but it wasn't added to the staging area, this commit didn't include it. The
+commit only updated the new file timer.dat
 
 
