@@ -26,5 +26,7 @@ how it got there. Cool!
 
 git commit -a -m "message" automatically add all modified files without doing git add. Yay! Now let's try
 if it can automatically add a new file
+RESULT:nope. only the previously added and newly modified ones can be added automatically. That's good news.
+
 
 

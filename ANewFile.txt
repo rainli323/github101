@@ -1,0 +1,1 @@
+this is a new file. Created to see if git commit -a would pick it up automatically
