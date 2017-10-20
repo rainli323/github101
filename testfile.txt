@@ -24,6 +24,7 @@ commit only updated the new file timer.dat
 RESULT: apparently git is smart enough to just do a diff of the new and old version, instead of tracking 
 how it got there. Cool!
 
-
+git commit -a -m "message" automatically add all modified files without doing git add. Yay! Now let's try
+if it can automatically add a new file
 
 
