@@ -21,5 +21,9 @@ the changes when I copy another version of the same file in to replace this one.
 RESULT: Here's the result after the git add timer.dat. and git commit. Even though this current file
 testfile.txt was changed, but it wasn't added to the staging area, this commit didn't include it. The
 commit only updated the new file timer.dat
+RESULT: apparently git is smart enough to just do a diff of the new and old version, instead of tracking 
+how it got there. Cool!
+
+
 
 
